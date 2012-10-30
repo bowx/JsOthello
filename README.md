@@ -1,4 +1,4 @@
-#Othello Game in Javascript
+﻿#Othello Game in Javascript
 ---
 *use Alpha-beta Pruning
 *Please play in chrome
